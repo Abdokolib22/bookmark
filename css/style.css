@@ -1,0 +1,18 @@
+body{
+    background-color: #00b2bc;
+}
+
+.row-first{
+    border-top: 2px dotted black;
+    border-bottom:2px dotted black;
+}
+
+.row-first button{
+    width: 150px;
+    margin: 20px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
